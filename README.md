@@ -46,6 +46,7 @@ elif year % 4 == 0:
 else:
     print("This is not a Leap Year")
 ```
+<img width="868" alt="Screen Shot 2022-07-23 at 3 03 31 PM" src="https://user-images.githubusercontent.com/66803124/180619416-e6a79186-473f-4e1c-a9eb-6a55a404f401.png">
 
 In this code, I wanted to be able to see step by step where something was failing so that I was able to ensure that each piece of logic was working properly. 
 
